@@ -22,21 +22,22 @@ The implementation includes:
 ### Key Features
 
 1. **Custom Weight Initialization**: Uses specific weight values from a predefined example
+
    - Input to Hidden weights: `[[-0.5, 0.4], [0.9, 0.1]]`
    - Hidden to Output weights: `[[0.2], [-0.6]]`
-
 2. **Activation Functions**:
+
    - Sigmoid function for non-linearity
    - Sigmoid derivative for gradient computation
-
 3. **Training**:
+
    - Learning rate: 0.1
    - Mean Squared Error (MSE) loss tracking
    - Single example training demonstration
 
 ### Files
 
-- `202402070041_assisgnment_1_colab.ipynb`: Main notebook with complete implementation
+- `lab_assisgnment_1_colab.ipynb`: Main notebook with complete implementation
 
 ### Usage
 
@@ -49,8 +50,8 @@ The notebook demonstrates:
 
 ### Example Input/Output
 
-**Input**: `[0, 1]`  
-**Target**: `[0]`  
+**Input**: `[0, 1]`
+**Target**: `[0]`
 **Learning Rate**: `0.1`
 
 The notebook shows the network output before and after one training step to illustrate the learning process.

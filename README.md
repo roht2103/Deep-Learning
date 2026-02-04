@@ -35,7 +35,7 @@ Implementation of a basic feedforward neural network using only NumPy to underst
 ```
 Deep Learning/
 ├── Lab Assignment 1/
-│   ├── 202402070041_assisgnment_1_colab.ipynb
+│   ├── lab_assisgnment_1_colab.ipynb
 │   └── README.md
 └── README.md
 ```
